@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lokesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [openQA](https://openqa.opensuse.org/)
+- 🔭 I’m currently Contributing on [openQA](https://openqa.opensuse.org/)
 
 - I’m currently learning **NextJs, Typescript, GraphQL**
 
@@ -9,7 +9,7 @@
 
 - I regularly write articles on [https://hashnode.com/@loki11](https://hashnode.com/@loki11)
 
-- Ask me about **React, Js, NodeJs,**
+- Ask me about **React, Js, NodeJs, Web-accessibility**
 
 - How to reach me **lokeshsri1109@gmail.com**
 
