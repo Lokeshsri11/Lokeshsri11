@@ -4,6 +4,6 @@ I'm an engineering student with a keen interest in software development. So far,
 My techStack is - Frontend(React,Tailwind), Backend(Nodejs, GraphQL)
 
 ## Join me on :
-- [Twitter](https://twitter.com/lokesh11092)
-- [Linkedin](https://www.linkedin.com/in/lokesh-srivastava-8465a5213/)
-- [Hashnode](https://hashnode.com/@loki11)
+- Find me on [Twitter](https://twitter.com/lokesh11092) to chat!
+- Connect with me on [Linkedin](https://www.linkedin.com/in/lokesh-srivastava-8465a5213/) for all my latest updates
+- Check out my tech blogs on [Hashnode](https://hashnode.com/@loki11)
