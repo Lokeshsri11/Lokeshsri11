@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lokesh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently Contributing on [openQA](https://openqa.opensuse.org/)
+- I’m currently Contributing on [openQA](https://openqa.opensuse.org/)
 
 - I’m currently learning **NextJs, Typescript, GraphQL**
 
